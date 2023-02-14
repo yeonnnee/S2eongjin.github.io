@@ -24,15 +24,15 @@ version: 1.0.0
 # About/contact
 author:
   name: S2eongjin
-  description: <strong>보물찾기</strong> 그리운 마을, 그 먼 바다에 이르기까지
+  description: <strong>신호제어</strong> 인간의 이동을 연구합니다
   gravatar: eb00c5fdfe26e3e1edec6963d9ce1938 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/gichanglee/
-    github:    https://github.com/ratsgo
-    facebook:  https://www.facebook.com/gichanglee.84
+    linkedin:  https://www.linkedin.com/in/seongjin-lee-883460239
+    github:    https://github.com/S2eongjin
+    #facebook:  <hide>
     #twitter:  <hide>
     #weibo:    <hide>
-    email:     mailto:gichang_lee@korea.ac.kr
+    email:     mailto:sue04206@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -51,10 +51,10 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/picture.JPG
-  caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
+  caption: Global ITS
 
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-93172815-1' # leave blank if you don't want google analytics
-disqus_short_name: 'ratsgo-github-io' # leave blank if you don't want disqus
+#disqus_short_name: 'ratsgo-github-io' # leave blank if you don't want disqus
 
