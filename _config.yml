@@ -1,5 +1,5 @@
 # Site Info
-title: S2eongjin's blog
+title: SJ's blog
 tagline: 'for ITS'
 description: 'blog for ITS'
 url: http://S2eongjin.github.io
@@ -23,9 +23,9 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: ratsgo
+  name: S2eongjin
   description: <strong>보물찾기</strong> 그리운 마을, 그 먼 바다에 이르기까지
-  gravatar: 0a638fc7996869b1b67fb90ccf77dcfe # md5 hash of your email address
+  gravatar: EB00C5FDFE26E3E1EDEC6963D9CE1938 # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/gichanglee/
     github:    https://github.com/ratsgo
