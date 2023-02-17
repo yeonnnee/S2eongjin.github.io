@@ -1,9 +1,9 @@
-# ratsgo's blog
+# SJ's blog
 
-안녕하세요, 이기창이라고 합니다.
-현재는 NAVER Chatbot Model 팀에서 일하고 있습니다.
-제 컨택포인트는 아래와 같습니다.
+안녕하세요, 이성진입니다.
+현재 Nota AI라는 회사의 ITS 팀에서 일하고 있습니다.
+궁금하신 점 있으시면 아래 연락처로 연락 부탁드리겠습니다.
 
-E-mail : ratsgo@naver.com
+E-mail : sue04206@gmail.com
 
-blog : https://ratsgo.github.io
+blog : https://s2eongjin.github.io/
