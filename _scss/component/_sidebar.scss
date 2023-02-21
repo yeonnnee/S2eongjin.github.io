@@ -23,7 +23,7 @@
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  color: rgba(255,255,255,.6);
+  color: rgba(255, 255, 255, 0.6);
   @include transition(all .3s ease-in-out);
 
   @if $reverse-layout {
@@ -37,7 +37,8 @@
   @if $theme-color != $default {
     background-color: $theme-color;
   } @else {
-    background-color: darken($theme-color-dark, 10%);
+    // background-color: darken($theme-color-dark, 10%);
+    background-color: rgba(0, 183, 250, 1);
   }
 }
 @media (min-width: 30em) {
