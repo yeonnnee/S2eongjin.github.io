@@ -51,7 +51,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/picture.JPG
-  caption: Global ITS
+  caption: 안녕하세요, 이성진입니다. 교통공학과 인공지능에 관심이 있습니다.
 
 # Puglins
 mathjax: true # whether support mathjax
